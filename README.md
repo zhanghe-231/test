@@ -3,3 +3,8 @@
 `nn
 
 >jeej
+```
+git status
+git add
+git commit
+```
