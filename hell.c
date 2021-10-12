@@ -3,7 +3,3 @@
 main()
 {
 	printf("hello, world\n");
-	printf
-
-
-}tools / nodeset_compiler / backend_open62541_datatypes.py
